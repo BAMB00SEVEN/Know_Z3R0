@@ -29,6 +29,11 @@ First, grab the source code package (the `.tar.gz` file) from the official repos
 tar -zxvf ngspice-37.tar.gz
 ```
 
+<img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/8ee3d178-051c-421e-b90d-2afef985ef37" />
+Here you can see that i create a seperate directory(file) on desktop inside which i made another files and finally installed the lateest version of ngspice `ngspice -45.2.tar.gz` file 
+>make sure to handle the directories as shown in the image above as it is crucial for extracting the `.tar` file
+>
+
 #### Step 2: 📂 Navigate to the Source Directory
 
 Move into the newly created folder containing the source code.
@@ -59,6 +64,9 @@ The `configure` script checks your system for all required dependencies and prep
 ```bash
 ../configure --with-x --with-readline=yes --disable-debug
 ```
+<img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/a49731dc-7b4e-4d7d-b72e-89110e742ad1" />
+>
+>
 
 #### Step 5: 👨‍💻 Compile the Code
 
@@ -75,6 +83,9 @@ Finally, install the compiled program onto your system. The `sudo` command is re
 ```bash
 sudo make install
 ```
+<img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/80f1cf9c-2463-4277-918d-8abbf01c5db8" />
+>
+>
 
 -----
 
@@ -129,7 +140,7 @@ Use `sudo make install` to copy the compiled files to the correct locations on y
 ```bash
 sudo make install
 ```
-
+<img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/83357444-265a-43e6-ba21-22c4089228f4" />
 -----
 
 And you're all set\! With **ngspice** and **magic** installed, you now have a powerful suite for analog simulation and physical layout design.
