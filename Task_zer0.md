@@ -43,7 +43,7 @@ sudo make install
 ![image alt](https://github.com/BAMB00SEVEN/Know_Z3R0/blob/main/Screenshot%20from%202025-09-19%2018-39-37.png?raw=true)
 
 >The final screen after successful installation
->
+><img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/e4fe1430-fbc8-49db-a8f7-afb787708068" />
 
 #### 2\. Icarus Verilog (Simulation)
 
