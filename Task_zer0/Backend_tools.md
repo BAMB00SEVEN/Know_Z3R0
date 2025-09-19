@@ -107,15 +107,15 @@ Magic relies on several system libraries for its user interface, scripting capab
 sudo apt-get install m4 tcsh csh libx11-dev tcl-dev tk-dev \
 libcairo2-dev mesa-common-dev libglu1-mesa-dev libncurses-dev
 ```
->Note : The  "\" after tk-dev shows that the next line is starting in the terminal, use it only when you are going to the next line as it can start from any point
->`for example sudo apt-get install m4
-$ sudo apt-get install tcsh
-$ sudo apt-get install csh
-$ sudo apt-get install libx11-dev
-$ sudo apt-get install tcl-dev tk-dev
-$ sudo apt-get install libcairo2-dev
-$ sudo apt-get install mesa-common-dev libglu1-mesa-dev
-$ sudo apt-get install libncurses-dev`
+>Note : The  "\\" after tk-dev shows that the next line is starting in the terminal, use it only when you are going to the next line as it can start from any point
+>`for example sudo apt-get install m4`
+  `$ sudo apt-get install tcsh`
+  `$ sudo apt-get install csh`
+  `$ sudo apt-get install libx11-dev`
+  `$ sudo apt-get install tcl-dev tk-dev`
+  `$ sudo apt-get install libcairo2-dev`
+  `$ sudo apt-get install mesa-common-dev libglu1-mesa-dev`
+  `$ sudo apt-get install libncurses-dev`
 > if you want you can also run commands one by one 
 
 #### Step 2: 📂 Clone the Source Code
