@@ -42,7 +42,9 @@ sudo make install
 ```
 ![image alt](https://github.com/BAMB00SEVEN/Know_Z3R0/blob/main/Screenshot%20from%202025-09-19%2018-39-37.png?raw=true)
 
->The final screen after successful installation
+>**The final screen after successful installation of YOSYS**
+>
+>
 ><img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/e4fe1430-fbc8-49db-a8f7-afb787708068" />
 
 #### 2\. Icarus Verilog (Simulation)
@@ -53,6 +55,12 @@ Icarus Verilog, or `iverilog`, is a Verilog compiler and simulator that we'll us
 sudo apt-get update
 sudo apt-get install iverilog
 ```
+>**The final screen after successful installation of IVERILOG**
+>
+>
+<img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/e9a7a439-8c6a-45bb-9449-bb6b4b2700aa" />
+
+
 
 #### 3\. GTKWave (Waveform Viewer)
 
@@ -62,7 +70,10 @@ To visualize the results of our simulations, we need a waveform viewer. GTKWave 
 sudo apt-get update
 sudo apt-get install gtkwave
 ```
-
+>**The final screen after successful installation of GTKWAVE**
+>
+>
+<img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/01b2a6cf-0bce-4041-aae4-14487030dcf5" />
 -----
 
 ### ✅ Verification: Tool Snapshot
