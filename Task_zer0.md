@@ -50,6 +50,7 @@ sudo make install
 Icarus Verilog, or `iverilog`, is a Verilog compiler and simulator that we'll use to test our designs.
 
 ```bash
+sudo apt-get update
 sudo apt-get install iverilog
 ```
 
@@ -58,6 +59,7 @@ sudo apt-get install iverilog
 To visualize the results of our simulations, we need a waveform viewer. GTKWave is a popular and powerful choice.
 
 ```bash
+sudo apt-get update
 sudo apt-get install gtkwave
 ```
 
