@@ -31,6 +31,7 @@ Choosing how to run Ubuntu is a key first step. Here’s a quick breakdown of th
       * **Pros:** It's completely isolated, so there's no risk to your main system. It's easy to delete and start over if something goes wrong.
       * **Cons:** There's a slight performance overhead since you're running two operating systems simultaneously.
       * **Verdict:** **Highly recommended** for this program. It's safe, clean, and perfectly adequate for the tasks ahead.
+      * Here is a detailed youtube video for seamless experience of running ubuntu in a virtual machine
 
   * **Dual Boot (The Split-Personality)** 듀얼 부팅
 
@@ -38,6 +39,8 @@ Choosing how to run Ubuntu is a key first step. Here’s a quick breakdown of th
       * **Pros:** You get the full, native performance of your hardware as Ubuntu has direct access to all resources.
       * **Cons:** The setup is more complex and carries a small risk of messing up your bootloader or partitions.
       * **Verdict:** A great option for power users who want maximum performance, but not necessary for this program.
+      * Here is a detailed youtube video for dual boot through windows, for any doubts during installation search the issue on google you will most likely find solution to every issue otherwise you have you best friend AI tools to get your troubleshooting done
+------ https://youtu.be/alFosqQ1ang
 
 -----
 
