@@ -38,8 +38,9 @@ make
 sudo make install
 
 #if you get an error like shown in image do the same as done in the image
-![image alt](https://github.com/BAMB00SEVEN/Know_Z3R0/blob/main/Screenshot%20from%202025-09-19%2018-39-37.png?raw=true)
+
 ```
+![image alt](https://github.com/BAMB00SEVEN/Know_Z3R0/blob/main/Screenshot%20from%202025-09-19%2018-39-37.png?raw=true)
 
 #### 2\. Icarus Verilog (Simulation)
 
