@@ -36,7 +36,8 @@ cd yosys
 make config-gcc
 make
 sudo make install
-<img width="1633" height="1133" alt="Screenshot from 2025-09-19 18-39-37" src="https://github.com/user-attachments/assets/266c8547-1d8d-4461-b68f-81501f665764" />
+
+#if you get an error like shown in image do the same as done in the image
 
 
 ```
