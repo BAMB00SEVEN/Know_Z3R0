@@ -37,10 +37,12 @@ make config-gcc
 make
 sudo make install
 
-#if you get an error like shown in image do the same as done in the image
+#if you get an error like shown in image do the same as done in the image below
 
 ```
-![image alt](https://github.com/BAMB00SEVEN/Know_Z3R0/blob/main/Screenshot%20from%202025-09-19%2018-39-37.png?raw=true)
+>if you get an error like shown in image do the same as done in the image below
+>
+<img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/bb583417-e069-4660-8e8b-6bd4bb7a55ea" />
 
 
 
