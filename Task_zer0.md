@@ -49,7 +49,7 @@ sudo make install
 <img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/e4fe1430-fbc8-49db-a8f7-afb787708068" />
 
 
-
+-----
 
 ## 2\. Icarus Verilog (Simulation)
 
@@ -65,7 +65,7 @@ sudo apt-get install iverilog
 <img width="1633" height="1133" alt="Image" src="https://github.com/user-attachments/assets/e9a7a439-8c6a-45bb-9449-bb6b4b2700aa" />
 
 
-
+-----
 
 #### 3\. GTKWave (Waveform Viewer)
 
