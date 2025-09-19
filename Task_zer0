@@ -19,6 +19,8 @@ Now, we'll install each tool one by one.
 
 Yosys will be our workhorse for converting Verilog RTL designs into a gate-level netlist.
 
+**make sure to run these commands one by one**
+
 ```bash
 # Install dependencies required to build Yosys from source
 sudo apt-get install build-essential clang bison flex \
@@ -34,6 +36,8 @@ cd yosys
 make config-gcc
 make
 sudo make install
+
+
 ```
 
 #### 2\. Icarus Verilog (Simulation)
