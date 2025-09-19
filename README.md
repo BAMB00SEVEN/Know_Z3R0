@@ -50,10 +50,10 @@ Choosing how to run Ubuntu is a key first step. Here’s a quick breakdown of th
 
 This invaluable learning opportunity is made possible by a massive collaborative effort. A huge thanks to the key organizers and partners:
 
-## VSD (VLSI System Design), led by Kunal Ghosh, for creating and spearheading this initiative.
+* VSD (VLSI System Design), led by Kunal Ghosh, for creating and spearheading this initiative.
 
-## IIT Gandhinagar for their crucial academic partnership.
+* IIT Gandhinagar for their crucial academic partnership.
 
-## RISC-V International for their support in promoting the open RISC-V standard.
+* RISC-V International for their support in promoting the open RISC-V standard.
 
-## The global Open Source VLSI Community for building and maintaining the powerful EDA tools that form the backbone of this program.
+* The global Open Source VLSI Community for building and maintaining the powerful EDA tools that form the backbone of this program.
