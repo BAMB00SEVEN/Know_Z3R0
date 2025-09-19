@@ -10,6 +10,14 @@
 >
 > 
 
+### System Blueprint (Prerequisites)
+
+Before we begin, ensure your machine (or virtual machine) meets these specifications:
+
+  * 🧠 **RAM:** 6GB+
+  * 💾 **HDD:** 50GB+ of free space
+  * 🖥️ **OS:** Ubuntu 20.04 or later
+  * ⚙️ **CPU:** 4 virtual CPUs (vCPUs) allocated
 -----
 
 
